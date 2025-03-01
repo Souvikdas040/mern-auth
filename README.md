@@ -22,7 +22,7 @@ A full authentication system built using the MERN stack (MongoDB, Express.js, Re
 
 1. **Clone the repository:**
    ```sh
-   git clone [https://github.com/your-username/mern-auth.git](https://github.com/Souvikdas040/mern-auth.git)
+   git clone https://github.com/Souvikdas040/mern-auth.git
    cd mern-auth
    ```
 
